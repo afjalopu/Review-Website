@@ -2,7 +2,7 @@
 # LearningCare Teaching Home
 - A Online Educational Institute.
 
-This project was bootstrapped with [Netlify Link](https://hopeful-kirch-379a3f.netlify.app/).
+Project Link : https://hopeful-kirch-379a3f.netlify.app/
 
 
 ## Features
