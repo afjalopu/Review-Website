@@ -1,0 +1,23 @@
+.headerLink{
+    background-image: url('./Gh3gJx.png');
+    height: 200px;
+}
+.nav .text {
+    text-decoration: none;
+    font-size: 1.8rem;
+    margin-left: 15px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+}
+.nav{
+    padding: 20px;
+}
+.icon i {
+   font-size: 4rem;
+   color: orangered;
+   margin-left: 550px;
+}
+.text h4{
+    color: orangered;
+    font-weight: bold;
+}
